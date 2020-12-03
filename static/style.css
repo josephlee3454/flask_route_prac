@@ -1,0 +1,15 @@
+
+.body-grid{
+    margin-top: 10%;
+    width: 75%;
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+#box{
+    background-color: darkblue;
+    margin: 5%;
+    width: 300px;
+    height: 300px;
+}
